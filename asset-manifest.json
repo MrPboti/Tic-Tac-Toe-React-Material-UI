@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/Tic-Tac-Toe-React-Material-UI/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/Tic-Tac-Toe-React-Material-UI/static/js/main.12cfcd2e.chunk.js",
-    "main.js.map": "/Tic-Tac-Toe-React-Material-UI/static/js/main.12cfcd2e.chunk.js.map",
-    "runtime-main.js": "/Tic-Tac-Toe-React-Material-UI/static/js/runtime-main.27c0ea68.js",
-    "runtime-main.js.map": "/Tic-Tac-Toe-React-Material-UI/static/js/runtime-main.27c0ea68.js.map",
-    "static/js/2.a6e4307d.chunk.js": "/Tic-Tac-Toe-React-Material-UI/static/js/2.a6e4307d.chunk.js",
-    "static/js/2.a6e4307d.chunk.js.map": "/Tic-Tac-Toe-React-Material-UI/static/js/2.a6e4307d.chunk.js.map",
-    "static/js/3.4c67e46f.chunk.js": "/Tic-Tac-Toe-React-Material-UI/static/js/3.4c67e46f.chunk.js",
-    "static/js/3.4c67e46f.chunk.js.map": "/Tic-Tac-Toe-React-Material-UI/static/js/3.4c67e46f.chunk.js.map",
+    "main.css": "/Tic-Tac-Toe-React-Material-UI/static/css/main.71b9e28e.chunk.css",
+    "main.js": "/Tic-Tac-Toe-React-Material-UI/static/js/main.675f0fe1.chunk.js",
+    "main.js.map": "/Tic-Tac-Toe-React-Material-UI/static/js/main.675f0fe1.chunk.js.map",
+    "runtime-main.js": "/Tic-Tac-Toe-React-Material-UI/static/js/runtime-main.1088806b.js",
+    "runtime-main.js.map": "/Tic-Tac-Toe-React-Material-UI/static/js/runtime-main.1088806b.js.map",
+    "static/js/2.9b196313.chunk.js": "/Tic-Tac-Toe-React-Material-UI/static/js/2.9b196313.chunk.js",
+    "static/js/2.9b196313.chunk.js.map": "/Tic-Tac-Toe-React-Material-UI/static/js/2.9b196313.chunk.js.map",
+    "static/js/3.7e0f5e48.chunk.js": "/Tic-Tac-Toe-React-Material-UI/static/js/3.7e0f5e48.chunk.js",
+    "static/js/3.7e0f5e48.chunk.js.map": "/Tic-Tac-Toe-React-Material-UI/static/js/3.7e0f5e48.chunk.js.map",
     "index.html": "/Tic-Tac-Toe-React-Material-UI/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/Tic-Tac-Toe-React-Material-UI/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.a6e4307d.chunk.js.LICENSE.txt": "/Tic-Tac-Toe-React-Material-UI/static/js/2.a6e4307d.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Tic-Tac-Toe-React-Material-UI/static/media/logo.6ce24c58.svg"
+    "static/css/main.71b9e28e.chunk.css.map": "/Tic-Tac-Toe-React-Material-UI/static/css/main.71b9e28e.chunk.css.map",
+    "static/js/2.9b196313.chunk.js.LICENSE.txt": "/Tic-Tac-Toe-React-Material-UI/static/js/2.9b196313.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.27c0ea68.js",
-    "static/js/2.a6e4307d.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.12cfcd2e.chunk.js"
+    "static/js/runtime-main.1088806b.js",
+    "static/js/2.9b196313.chunk.js",
+    "static/css/main.71b9e28e.chunk.css",
+    "static/js/main.675f0fe1.chunk.js"
   ]
 }
