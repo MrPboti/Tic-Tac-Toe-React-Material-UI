@@ -10,9 +10,9 @@ const Square = props => (
   variant="outlined"   
   style={{
     borderRadius: 250,
-    width: "100px",
-    height:"100px",
-    fontSize: "50px",
+    width: "80px",
+    height:"80px",
+    fontSize: "40px",
     padding: "18px",
         }}
   onClick={props.onClick}>
