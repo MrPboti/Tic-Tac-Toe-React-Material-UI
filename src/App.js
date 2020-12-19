@@ -8,7 +8,6 @@ import Typography from '@material-ui/core/Typography';
 import Box from '@material-ui/core/Box';
 
 
-
 document.body.style.backgroundColor = "#0d1117";
 
 const calculateWinner = (squares) => {
@@ -159,11 +158,6 @@ class Game extends React.Component {
           </Box>
 
         </Container>
-          <div>
-            <Button variant="outlined" onClick={() => this.sortMoves()}>Sort moves</Button>
-            {moves}
-          </div>       
-
          </div>
      </div>
     );
